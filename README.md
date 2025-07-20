@@ -37,7 +37,7 @@ The goal of this project is to demonstrate how transformer-based models can be f
 ## How the Project Works (Architecture)
 
 1. Text Input
-Users enter a prompt (e.g., "The future of robotics") through the notebook or Colab interface.
+Users enter a prompt (e.g., "The impact of artificial intelligence on education") through the notebook or Colab interface.
 
 2. Prompt Processing
 The prompt is tokenized using GPT-2’s tokenizer and sent to the model to begin generating text.
@@ -65,7 +65,5 @@ The generated paragraph is decoded and printed in the notebook for immediate use
 
 ## Output
 
-```text
-Prompt: The impact of AI on education
+<img width="1368" height="275" alt="Image" src="https://github.com/user-attachments/assets/eeb6d680-93a8-4fb4-be46-025761127449" />
 
-Output: Artificial Intelligence is revolutionizing the education sector by providing personalized learning experiences, automating administrative tasks, and enhancing student engagement through adaptive systems. As AI continues to evolve, its role in shaping future learning environments is expected to grow exponentially...
