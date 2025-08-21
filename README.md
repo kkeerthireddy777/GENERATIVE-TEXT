@@ -1,6 +1,5 @@
 ## GENERATIVE TEXT MODEL  
 
----
 
 ## Project Overview
 
