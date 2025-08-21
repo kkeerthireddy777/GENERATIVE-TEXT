@@ -1,17 +1,5 @@
 ## GENERATIVE TEXT MODEL  
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Keerthi K
-
-*INTERN ID*: CT06DG2158
-
-*DOMAIN*: Artificial Intelligence
-
-*DURATION*: 6 WEEEKS
-
-*MENTOR*: NEELA SANTOSH 
-
 ---
 
 ## Project Overview
